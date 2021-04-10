@@ -1,0 +1,20 @@
+//
+//  ViewController.swift
+//  I am rich
+//
+//  Created by Vatsal Arya on 10/04/21.
+//  Copyright © 2021 Vatsal Arya. All rights reserved.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
